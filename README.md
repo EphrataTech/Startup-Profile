@@ -5,7 +5,7 @@ A quiet space to feel, reflect, and release — one word at a time.
 
 ---
 live link:
-https://ephratatech.github.io/Startup-project/
+https://ephratatech.github.io/Startup-Profile/
 
  Overview
 
